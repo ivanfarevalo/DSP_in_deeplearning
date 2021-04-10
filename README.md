@@ -12,8 +12,12 @@ choices.
 
 ### Experiments:
 
-  1. **spectrograms/windows.py:** analyze different window functions and their spectral characteristics.
-  2. **spectrograms/spectrogram.py:** experiment how different choices of window function, window length, and window overlap affect spectrogram quality and characteristics of audio signals.
+  1. **spectrograms/windows.py:** analyze different window functions and their spectral characteristics. \
+[Link to Report](https://github.com/ivanfarevalo/DSP_in_deeplearning/blob/master/spectrograms/Windowing_report.pdf)
+
+  2. **spectrograms/spectrogram.py:** experiment how different choices of window function, window length, and window overlap affect spectrogram quality and characteristics of audio signals. \
+[Link to Report](https://github.com/ivanfarevalo/DSP_in_deeplearning/blob/master/spectrograms/Spectrogram_report.pdf)
+
 
 
 
